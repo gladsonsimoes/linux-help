@@ -1,5 +1,6 @@
 # guide-commands-linux
 
+## Baixar arquivo .run
 Selecionar diretório onde está o arquivo run
 ~~~linux
 cd <directory>
