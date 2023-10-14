@@ -21,3 +21,8 @@ sudo ./arquive.run
 ~~~
 sudo chmod 777 /opt/lampp
 ~~~
+
+6 -  de permissão para o mysql no diretório do xampp
+~~~
+sudo chown -R mysql:mysql /opt/lampp/mysql
+~~~
