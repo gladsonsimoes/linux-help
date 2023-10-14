@@ -16,3 +16,8 @@ sudo chmod 777 arquive.run
 ~~~linux
 sudo ./arquive.run
 ~~~
+
+5 - Depois do Xampp ter instalado execute o seguinte comando para dar permissão total a pasta do xampp:
+~~~
+sudo chmod 777 /opt/lampp
+~~~
