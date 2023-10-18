@@ -19,3 +19,9 @@ Acesso Total (777): Ler, Escrever e Executar
 sudo chmod 777 Directory
 ~~~
 
+para subpastas:
+~~~
+sudo chmod 777 ./Directory/*
+~~~
+
+
