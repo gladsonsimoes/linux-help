@@ -28,7 +28,7 @@ Baixar as principais extensões do php, para rodar frameworks como o laravel que
 sudo apt install php8.0-mbstring php8.0-xmlrpc php8.0-soap php8.0-gd php8.0-xml php8.0-cli php8.0-zip php8.0-bcmath php8.0-tokenizer
 ~~~
 
-
+Baixar as extensões do banco de dados:
 ~~~
 sudo apt install php8.0-sqlite3
 ~~~
