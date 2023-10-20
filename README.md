@@ -1,6 +1,6 @@
-# guide-commands-linux
+# gLinux Help
 
-### Permissão para Escrever, ler editar no linux
+- ### <a href="arquives/nivel-acess.md"> Permissão para Escrever, ler e editar no linux </a>
 
 
 ## Baixar arquivo .run
