@@ -1,4 +1,4 @@
-# gLinux Help
+# Linux Help
 
 - ### <a href="arquives/nivel-acess.md"> Permissão para Escrever, ler e editar no linux </a>
 
