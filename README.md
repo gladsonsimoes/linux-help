@@ -1,5 +1,8 @@
 # guide-commands-linux
 
+### Permissão para Escrever, ler editar no linux
+
+
 ## Baixar arquivo .run
 Selecionar diretório onde está o arquivo run
 ~~~linux
