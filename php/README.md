@@ -13,7 +13,7 @@ Pegar a lista de pacotes atualizadas:
 sudo apt update
 ~~~
 
-Instalar o php e confirme a instalação:
+Instalar o php (no caso está a versão 8.0 escolha a versão que deseja instalar e confirme a instalação):
 ~~~
 sudo apt install php8.0
 ~~~
