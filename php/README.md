@@ -23,17 +23,9 @@ Verifique se instalou:
 php -v
 ~~~
 
-Baixar as principais extensões do php, para rodar frameworks como o laravel que é um framework PHP:
+Baixar as principais extensões do php (troque a versão se caso instalou outra versão do php) , para rodar frameworks como o laravel que é um framework PHP:
 ~~~
-sudo apt install
-php8.0-mbstring
-php8.0-xmlrpc
-php8.0-soap
-php8.0-gd php8.0-xml
-php8.0-cli
-php8.0-zip
-php8.0-bcmath
-php8.0-tokenizer
+sudo apt install php8.0-mbstring php8.0-xmlrpc php8.0-soap php8.0-gd php8.0-xml php8.0-cli php8.0-zip php8.0-bcmath php8.0-tokenizer
 ~~~
 
 Baixar as extensões do banco de dados:
