@@ -25,15 +25,16 @@ Verifique se instalou:
 php -v
 ~~~
 
-Baixar as principais extensões do php (troque a versão do php8.0 para a versão que esteja usando) , para rodar frameworks como o laravel que é um framework PHP:
+Baixar as principais bibliotecas do php (troque a versão do php8.0 para a versão que esteja usando) , para rodar frameworks como o laravel que é um framework PHP:
 ~~~
-sudo apt install php8.0-mbstring php8.0-xmlrpc php8.0-soap php8.0-gd php8.0-xml php8.0-cli php8.0-zip php8.0-bcmath php8.0-tokenizer
+sudo apt install php8.0-mbstring php8.0-xmlrpc php8.0-soap php8.0-gd php8.0-xml php8.0-cli php8.0-zip php8.0-bcmath php8.0-tokenizer php8.0-curl
 ~~~
 
 Baixar as extensões do banco de dados (troque a versão do php8.0 para a versão que esteja usando) :
 ~~~
 sudo apt install php8.0-sqlite3
 ~~~
+
 
 ## Remover PHP
 
