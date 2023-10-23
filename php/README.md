@@ -1,3 +1,5 @@
+## Instalação do PHP
+
 Instalar a dependência software-properties-common que permite adicionar repositório de terceiros de forma fácil no ubuntu:
 ~~~
 sudo apt install software-properties-common
@@ -23,14 +25,34 @@ Verifique se instalou:
 php -v
 ~~~
 
-Baixar as principais extensões do php (troque a versão se caso instalou outra versão do php) , para rodar frameworks como o laravel que é um framework PHP:
+Baixar as principais extensões do php (troque a versão do php8.0 para a versão que esteja usando) , para rodar frameworks como o laravel que é um framework PHP:
 ~~~
 sudo apt install php8.0-mbstring php8.0-xmlrpc php8.0-soap php8.0-gd php8.0-xml php8.0-cli php8.0-zip php8.0-bcmath php8.0-tokenizer
 ~~~
 
-Baixar as extensões do banco de dados:
+Baixar as extensões do banco de dados (troque a versão do php8.0 para a versão que esteja usando) :
 ~~~
 sudo apt install php8.0-sqlite3
 ~~~
 
+## Remover PHP
+
+Somente um versão
+~~~
+sudo apt-get remove --purge php7*
+sudo apt-get autoremove
+~~~
+
+Remover todas as versões
+~~~
+sudo apt-get remove --purge php*
+sudo apt-get autoremove
+~~~
+
+
+---
+
+Sites de Referencia:
+
+[Removendo php, mysql e apache do linux](https://www.fredericomarinho.com/removendo-php-mysql-e-apache-do-linux/)
 
