@@ -38,13 +38,13 @@ sudo apt install php8.0-sqlite3
 
 ## Remover PHP
 
-Somente das versões 7
+Somente de todas as versões do 8 <b> ( para remover de todas versões relacionadas )</b> 
 ~~~
-sudo apt-get remove --purge php7*
+sudo apt-get remove --purge php8*
 sudo apt-get autoremove
 ~~~
 
-Somente da versão em especifico (no caso que é o php 8.1)
+Somente da versão 8.1 <b> ( para remover uma versão em especifico ) </b>
 ~~~
 sudo apt-get remove --purge php8.1*
 sudo apt-get autoremove
