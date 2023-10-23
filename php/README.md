@@ -5,7 +5,7 @@ Instalar a dependência software-properties-common que permite adicionar reposit
 sudo apt install software-properties-common
 ~~~
 
-Instalando a última versão do php (versão 8), irá pedir confirmação e aperte o enter
+Obtendo a chave pública , irá pedir confirmação e aperte o enter
 ~~~
 sudo add-apt-repository ppa:ondrej/php
 ~~~
@@ -15,7 +15,7 @@ Pegar a lista de pacotes atualizadas:
 sudo apt update
 ~~~
 
-Instalar o php (no caso está a versão 8.0 escolha a versão que deseja instalar e confirme a instalação):
+Instalar o php <b> (troque a versão 8.0 escolha a versão que deseja instalar e confirme a instalação) </b> :
 ~~~
 sudo apt install php8.0
 ~~~
