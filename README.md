@@ -7,4 +7,8 @@
 - ### <a href="arquives/arquiveRun.md">Baixar arquivos .run </a>
 - ### <a href="arquives/arquiveJar.md"> Baixar arquivos .jar </a>
 
+## Baixar programa via terminal:
+- ### <a href="php"> Baixar php </a>
+
+
 
