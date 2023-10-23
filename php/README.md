@@ -37,8 +37,10 @@ sudo apt install php8.0-sqlite3
 
 
 ## Remover PHP
+Abaixo tem uma instrução de remover o php, troque pela versão que esteja no seu dipositivo!
 
-Somente de todas as versões do 8 <b> ( para remover de todas versões relacionadas )</b> 
+
+Remover todas as versões do 8 <b> ( para remover de todas versões relacionadas )</b> 
 ~~~
 sudo apt-get remove --purge php8*
 sudo apt-get autoremove
