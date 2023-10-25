@@ -16,7 +16,7 @@ Para ter acesso de escrita , leitura e execucação em um diretório você preci
 
 As permissões adequadas geralmente seriam 644 no Linux, o que significa que o proprietário pode ler e escrever, enquanto outros podem apenas ler.
 ~~~
-chmod 644 /caminho/para/config.inc.php
+sudo chmod 644 Directory 
 ~~~
 
 Acesso Total ao propriétario e aos outros:
