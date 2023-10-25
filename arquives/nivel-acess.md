@@ -14,12 +14,17 @@ sudo
 
 Para ter acesso de escrita , leitura e execucação em um diretório você precisa configurar diferentes tipos de acesso:
 
-Acesso Total (777): Ler, Escrever e Executar
+As permissões adequadas geralmente seriam 644 no Linux, o que significa que o proprietário pode ler e escrever, enquanto outros podem apenas ler.
+~~~
+chmod 644 /caminho/para/config.inc.php
+~~~
+
+Acesso Total ao propriétario e aos outros:
 ~~~
 sudo chmod 777 Directory
 ~~~
 
-para subpastas:
+Acesso Total para subpastas:
 ~~~
 sudo chmod -R 777 Directory
 ~~~
