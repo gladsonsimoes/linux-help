@@ -29,5 +29,7 @@ Acesso Total para subpastas:
 sudo chmod -R 777 Directory
 ~~~
 
+Sites de ajuda:
+https://www.homehost.com.br/blog/directadmin/permissoes-chmod-directadmin/
 
 
